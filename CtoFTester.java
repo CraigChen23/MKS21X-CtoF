@@ -1,3 +1,7 @@
+//What should the functions have as parameter(s) ?  They should have celsius as a parameter for celsius to fahrenheit function and paramter for fahrenheit for fahrenheit to celsius function
+//What type should they be? They should be doubles
+//What should the functions return? The functions should return the converted value
+
 public class tempconvertor {
     public static void main(String[] args){
         System.out.println(cels2fahren(3.0));
